@@ -34,8 +34,6 @@ git clone https://github.com/your-username/who-wants-to-be-a-millionaire.git
 
 # Kim Milyoner Olmak İster?
 
-![Oyun Ekran Görüntüsü](screenshot.png)
-
 ## Tanıtım
 
 Bu, popüler televizyon programı "Kim Milyoner Olmak İster?"in basit bir tarayıcı tabanlı oyun uygulamasıdır. Oyun, web üzerinde 2D grafikleri oluşturmak için kullanılan yaygın bir JavaScript kütüphanesi olan PIXI.js kullanılarak geliştirilmiştir.
