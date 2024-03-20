@@ -28,7 +28,6 @@ This is a simple browser-based game implementation of the popular TV show "Who W
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/your-username/who-wants-to-be-a-millionaire.git
 
 -------------------------------------------------------------------------------
@@ -65,7 +64,6 @@ Bu, popüler televizyon programı "Kim Milyoner Olmak İster?"in basit bir taray
 
 1. Depoyu klonlayın:
 
-```bash
 git clone https://github.com/kullanici-adiniz/kim-milyoner-olmak-ister.git
 
 
